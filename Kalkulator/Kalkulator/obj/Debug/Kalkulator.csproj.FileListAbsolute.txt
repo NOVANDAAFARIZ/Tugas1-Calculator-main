@@ -1,0 +1,23 @@
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\obj\Debug\Kalkulator.FormKalkulator.resources
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Kalkulator.resources
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+D:\Kalkulator New\Kalkulator Fix\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+D:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\Project-Kalkulator-main\Project-Kalkulator-main\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+D:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\Project-Kalkulator-main\Project-Kalkulator-main\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+D:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\Project-Kalkulator-main\Project-Kalkulator-main\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+D:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\Project-Kalkulator-main\Project-Kalkulator-main\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+D:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\Project-Kalkulator-main\Project-Kalkulator-main\Kalkulator\Kalkulator\obj\Debug\Kalkulator.FormKalkulator.resources
+D:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\Project-Kalkulator-main\Project-Kalkulator-main\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Kalkulator.resources
+D:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\Project-Kalkulator-main\Project-Kalkulator-main\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+D:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\Project-Kalkulator-main\Project-Kalkulator-main\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+D:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\Project-Kalkulator-main\Project-Kalkulator-main\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+D:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\Project-Kalkulator-main\Project-Kalkulator-main\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+D:\AMIKOM SEMESTER 3\PEMROGRAMAN LANJUT\Project-Kalkulator-main\Project-Kalkulator-main\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
